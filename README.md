@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargavi Ramisetti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=laptop%20animated%20coder%20girl%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2FIF2JdxzmyN4AAAAi%2Fcoding-girl.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&docid=RD5pEjQYneaF0M&tbnid=WrcH7DaEqebDOM&vet=12ahUKEwjXuLjYquKHAxWtyTgGHfooMqQQM3oECBYQAA..i&w=498&h=374&hcb=2&ved=2ahUKEwjXuLjYquKHAxWtyTgGHfooMqQQM3oECBYQAA")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavi650&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavi650" /> </p>
 
