@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend development as Intern**
 
-- 📫 How to reach me **bhargaviramisetti99@gmail.com**
+- 📫 How to reach me **bhargaviramisetti01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
