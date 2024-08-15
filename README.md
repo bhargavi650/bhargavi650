@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Frontend development as Intern**  
 
+- ✨ RESUME LINK --  **https://violet-gale-72.tiiny.site/**
+
+- 👧  PORTFOLIO LINK -- **https://bhargaviramisetti99.netlify.app/**
+
 - 📫 How to reach me **bhargaviramisetti01@gmail.com**
-
-- ✨ RESUME LINK --  https://violet-gale-72.tiiny.site/
-
-- 👧  PORTFOLIO LINK -- https://bhargaviramisetti99.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
