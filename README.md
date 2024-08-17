@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend development as Intern**  
 
-- ✨ RESUME LINK --  **https://violet-gale-72.tiiny.site/**
+- ✨ RESUME LINK --  **https://pink-mignonne-95.tiiny.site/**
 
 - 👧  PORTFOLIO LINK -- **https://bhargaviramisetti99.netlify.app/**
 
